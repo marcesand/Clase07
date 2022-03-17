@@ -1,0 +1,83 @@
+h1 {
+    border: 5px solid rgb(234, 160, 236);
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    background-image: url("corazones.jpg");
+    padding: 150px;
+    color: rgb(241, 191, 239);
+    text-align: center;
+    font-size: 40px
+    
+
+    color: darkblue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+    direction: ltr; /*left to right, right to left */
+   text-transform: uppercase; /*otras opciones: lowercase, capitalize */
+    text-indent: 50px;
+    letter-spacing: 10px;
+    line-height: 1.8;
+    word-spacing: 5px;
+    /*white-space: nowrap; /*descomentar esta linea para ver la diferencia*/
+    text-shadow: 2px 2px red; /*2px de sombra horizontal y vertical*/
+    /*text-shadow: 2px 2px 5px red; /* efecto de 5px de desenfoque */
+  
+
+   }
+   
+   P {
+    border: 10px dotted rgb(231, 151, 221);
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    background-color: rgb(242, 214, 255);
+    padding: 150px;
+    color: rgb(226, 128, 213);
+    text-align: center;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    color: rgb(172, 17, 138);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: right;
+    direction: ltr; /*left to right, right to left */
+   text-transform: uppercase; /*otras opciones: lowercase, capitalize */
+    text-indent: 50px;
+    letter-spacing: 10px;
+    line-height: 1.8;
+    word-spacing: 5px;
+    /*white-space: nowrap; /*descomentar esta linea para ver la diferencia*/
+    text-shadow: 2px 2px rgb(71, 5, 51); /*2px de sombra horizontal y vertical*/
+    /*text-shadow: 2px 2px 5px red; /* efecto de 5px de desenfoque */
+
+
+   }
+   h2 {
+    border: 10px dashed rgb(245, 169, 241);
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    background-color: rgb(255, 205, 255);
+    padding: 150px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: rgb(240, 73, 170);
+
+    color: rgb(202, 5, 192);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+    direction: ltr; /*left to right, right to left */
+   text-transform: uppercase; /*otras opciones: lowercase, capitalize */
+    text-indent: 50px;
+    letter-spacing: 10px;
+    line-height: 1.8;
+    word-spacing: 5px;
+    /*white-space: nowrap; /*descomentar esta linea para ver la diferencia*/
+    text-shadow: 2px 2px rgb(39, 1, 15); /*2px de sombra horizontal y vertical*/
+    /*text-shadow: 2px 2px 5px red; /* efecto de 5px de desenfoque */
+   }
